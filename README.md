@@ -97,6 +97,8 @@ Easy Learn Academy, Bhavnagar *(Feb – May 2026)*
 
 ---
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?keyur161310&theme=radical&hide_border=true)
+
 <div align="center">
   <strong>"Turning ideas into reality, one line of code at a time." 💡</strong><br><br>
   <strong>Always learning • Building • Growing 🚀</strong>
