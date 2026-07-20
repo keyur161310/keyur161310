@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/keyur161310/keyur161310/main/icons/react.sg" height="45" width="45" alt="React"/>
+<img src="https://raw.githubusercontent.com/keyur161310/keyur161310/main/icons/react.svg" height="45" width="45" alt="React"/>
 <img src="https://raw.githubusercontent.com/keyur161310/keyur161310/main/icons/nodejs.svg" height="45" width="45" alt="Node.js"/>
 <img src="https://raw.githubusercontent.com/keyur161310/keyur161310/main/icons/express.svg" height="45" width="45" alt="Express"/>
 <img src="https://raw.githubusercontent.com/keyur161310/keyur161310/main/icons/mongodb.svg" height="45" width="45" alt="MongoDB"/>
