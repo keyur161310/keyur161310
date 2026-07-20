@@ -62,16 +62,19 @@
 
 <div align="center">
 
+### 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keyur161310&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keyur161310&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=keyur161310&theme=radical&hide_border=true)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=keyur161310&theme=radical&no-frame=true&margin-w=15)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=keyur161310&color=00ff88&style=for-the-badge&label=Profile+Views)
 
 </div>
-
 ---
 
 ### 🌱 Currently Learning
