@@ -1,1 +1,85 @@
-<div align="center">   <h1>Hey there! 👋 I'm Keyur Dholakiya</h1>      <h3>🚀 Full Stack MERN Developer | Building Modern Web Experiences</h3>    <p>     <strong>Passionate developer</strong> with hands-on experience in creating responsive and scalable web applications using the MERN stack.   </p>    <a href="https://github.com/yourusername">     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>   </a>   <a href="https://linkedin.com/in/yourprofile">     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>   </a>   <a href="mailto:keyurdhola1604@gmail.com">     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>   </a> </div>  ---  ### 👨‍💻 About Me  - 🎓 **B.E. Information Technology** Graduate (CGPA: 8.23) from Gyanmanjri Institute of Technology - 💼 Former **MERN Stack Intern** at Easy Learn Academy (Feb–May 2026) - 🌱 Currently building real-world projects and continuously improving my full-stack skills - 📍 Open to **full-time opportunities across Pan India**  ---  ### 🛠️ Tech Stack  **Frontend:**   React.js • JavaScript • HTML5 • CSS3 • Bootstrap • Tailwind CSS  **Backend:**   Node.js • Express.js  **Database:**   MongoDB • MySQL  **Tools & Others:**   Git • GitHub • npm • Vite • VS Code  ---  ### 🔥 Featured Projects  **1. Kuldevi Restaurant Website**   A fully responsive restaurant website with attractive UI, menu sections, category filtering, and contact forms.   `React • Bootstrap • Responsive Design`  **2. To-Do List Application**   Dynamic task management app with add, delete, complete, and local storage features.   `React.js • JavaScript • Local Storage`  **3. Masala Diaries**   Modern food & recipe blog-style website with engaging design and smooth navigation.   `HTML • CSS • JavaScript • Bootstrap`  **4. Personal Portfolio Website** *(You're viewing it!)*   Clean and responsive portfolio showcasing my projects and skills.  *(Add project links here when you upload them)*  ---  ### 📚 Education  **Bachelor of Engineering – Information Technology**   Gyanmanjri Institute of Technology, Bhavnagar   Gujarat Technological University (GTU)   **CGPA:** 8.23 | **Final SPI:** 10.00 | **Passing Year:** 2026  ---  ### 📜 Certifications & Activities  - Completed **MERN Stack Course** from Easy Learn Academy - Participated in **Techmanjri Technical Event** - Actively building and learning modern web development  ---  ### 📫 Let's Connect!  - **Email:** keyurdhola1604@gmail.com - **LinkedIn:** [linkedin.com/in/keyur-dholakiya](https://linkedin.com/in/yourprofile) - **Location:** Bhavnagar, Gujarat | **Available for relocation across India**  ---  <div align="center">   <strong>💡 Always eager to learn, build, and collaborate on exciting projects!</strong> </div>
+<div align="center">
+  <h1>Hi, I'm Keyur Dholakiya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+  
+  <h3>🚀 Full Stack MERN Developer</h3>
+
+  <p>Building clean, responsive, and high-performance web applications.</p>
+
+  <!-- Social Links -->
+  <a href="https://linkedin.com/in/your-linkedin-username">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:keyurdhola1604@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+- Passionate **MERN Stack Developer** with real-world project & internship experience  
+- Recent **B.E. Information Technology** Graduate (CGPA: **8.23**)  
+- Currently open to **full-time opportunities across India**
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" width="40" alt="React"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="Node.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40" width="40" alt="Express"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40" width="40" alt="MongoDB"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="40" width="40" alt="Tailwind"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40" width="40" alt="Bootstrap"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" width="40" alt="Git"/>
+
+</div>
+
+---
+
+### 🔥 Featured Projects
+
+- **🍽️ Kuldevi Restaurant Website** — Fully responsive restaurant platform  
+- **✅ To-Do List Application** — Dynamic task manager built with React  
+- **📖 Masala Diaries** — Modern food & recipe blog  
+- **🧑‍💼 Personal Portfolio** — Clean & responsive portfolio (this one!)
+
+---
+
+### 💼 Experience
+
+**MERN Stack Intern**  
+**Easy Learn Academy**, Bhavnagar  
+*Feb 2026 – May 2026*
+
+---
+
+### 🎓 Education
+
+**Bachelor of Engineering – Information Technology**  
+Gyanmanjri Institute of Technology, Bhavnagar  
+Gujarat Technological University | **CGPA: 8.23**
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Keyur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00ff88&style=for-the-badge&label=Profile+Views)
+
+</div>
+
+---
+
+<div align="center">
+  <strong>Let's connect and build something great together! 🚀</strong>
+</div>
