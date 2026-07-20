@@ -9,10 +9,10 @@
   </p>
 
   <!-- Badges -->
-  <a href="https://linkedin.com/in/your-linkedin-username">
+  <a href="https://linkedin.com/in/keyur161310">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:keyurdhola1604@gmail.com">
+  <a href="mailto:keyurdholakiya1604@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <img src="https://img.shields.io/badge/Open_to_Work-00C853?style=for-the-badge" alt="Open to Work"/>
@@ -36,14 +36,14 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/icons/react.svg" height="45" width="45" alt="React"/>
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/icons/nodejs.svg" height="45" width="45" alt="Node.js"/>
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/icons/express.svg" height="45" width="45" alt="Express"/>
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/icons/mongodb.svg" height="45" width="45" alt="MongoDB"/>
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/icons/javascript.svg" height="45" width="45" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/icons/tailwindcss.svg" height="45" width="45" alt="Tailwind"/>
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/icons/bootstrap.svg" height="45" width="45" alt="Bootstrap"/>
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/icons/git.svg" height="45" width="45" alt="Git"/>
+<img src="https://raw.githubusercontent.com/keyur161310/keyur161310/main/icons/react.sg" height="45" width="45" alt="React"/>
+<img src="https://raw.githubusercontent.com/keyur161310/keyur161310/main/icons/nodejs.svg" height="45" width="45" alt="Node.js"/>
+<img src="https://raw.githubusercontent.com/keyur161310/keyur161310/main/icons/express.svg" height="45" width="45" alt="Express"/>
+<img src="https://raw.githubusercontent.com/keyur161310/keyur161310/main/icons/mongodb.svg" height="45" width="45" alt="MongoDB"/>
+<img src="https://raw.githubusercontent.com/keyur161310/keyur161310/main/icons/javascript.svg" height="45" width="45" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/keyur161310/keyur161310/main/icons/tailwindcss.svg" height="45" width="45" alt="Tailwind"/>
+<img src="https://raw.githubusercontent.com/keyur161310/keyur161310/main/icons/bootstrap.svg" height="45" width="45" alt="Bootstrap"/>
+<img src="https://raw.githubusercontent.com/keyur161310/keyur161310/main/icons/git.svg" height="45" width="45" alt="Git"/>
 
 </div>
 
@@ -62,13 +62,13 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keyur161310&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keyur161310&layout=compact&theme=radical&hide_border=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=keyur161310&theme=radical&no-frame=true&margin-w=15)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00ff88&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=keyur161310&color=00ff88&style=for-the-badge&label=Profile+Views)
 
 </div>
 
