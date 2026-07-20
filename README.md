@@ -6,10 +6,10 @@
   <p>Building clean, responsive, and high-performance web applications.</p>
 
   <!-- Social Links -->
-  <a href="https://linkedin.com/in/your-linkedin-username">
+  <a href="https://linkedin.com/in/keyur161310">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:keyurdhola1604@gmail.com">
+  <a href="mailto:keyurdholakiya1604@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
