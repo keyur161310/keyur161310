@@ -1,26 +1,32 @@
 <div align="center">
-  <h1>Hi, I'm Keyur Dholakiya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+  <h1>Hi, I'm Keyur Dholakiya 👋</h1>
   
   <h3>🚀 Full Stack MERN Developer</h3>
 
-  <p>Building clean, responsive, and high-performance web applications.</p>
+  <p>Building modern, responsive, and scalable web applications.</p>
 
-  <!-- Social Links -->
+  <!-- Badges -->
   <a href="https://linkedin.com/in/your-linkedin-username">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:keyurdhola1604@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  
+  <br><br>
+  <img src="https://img.shields.io/badge/MERN_Stack-000000?style=for-the-badge&logo=mern&logoColor=white" alt="MERN"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-- Passionate **MERN Stack Developer** with real-world project & internship experience  
+- Passionate **Full Stack MERN Developer** with internship experience  
 - Recent **B.E. Information Technology** Graduate (CGPA: **8.23**)  
-- Currently open to **full-time opportunities across India**
+- Open to **full-time opportunities across India**
 
 ---
 
@@ -28,14 +34,14 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" width="40" alt="React"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="Node.js"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40" width="40" alt="Express"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40" width="40" alt="MongoDB"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="40" width="40" alt="Tailwind"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40" width="40" alt="Bootstrap"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" width="40" alt="Git"/>
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/icons/react.svg" height="45" width="45" alt="React"/>
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/icons/nodejs.svg" height="45" width="45" alt="Node.js"/>
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/icons/express.svg" height="45" width="45" alt="Express"/>
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/icons/mongodb.svg" height="45" width="45" alt="MongoDB"/>
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/icons/javascript.svg" height="45" width="45" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/icons/tailwindcss.svg" height="45" width="45" alt="Tailwind"/>
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/icons/bootstrap.svg" height="45" width="45" alt="Bootstrap"/>
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/icons/git.svg" height="45" width="45" alt="Git"/>
 
 </div>
 
@@ -43,18 +49,17 @@
 
 ### 🔥 Featured Projects
 
-- **🍽️ Kuldevi Restaurant Website** — Fully responsive restaurant platform  
-- **✅ To-Do List Application** — Dynamic task manager built with React  
-- **📖 Masala Diaries** — Modern food & recipe blog  
-- **🧑‍💼 Personal Portfolio** — Clean & responsive portfolio (this one!)
+- **🍽️ Kuldevi Restaurant Website** — Responsive restaurant platform
+- **✅ To-Do List Application** — Dynamic React task manager
+- **📖 Masala Diaries** — Modern food & recipe blog
+- **🧑‍💼 Personal Portfolio** — Clean & responsive portfolio
 
 ---
 
 ### 💼 Experience
 
 **MERN Stack Intern**  
-**Easy Learn Academy**, Bhavnagar  
-*Feb 2026 – May 2026*
+Easy Learn Academy, Bhavnagar *(Feb – May 2026)*
 
 ---
 
@@ -70,7 +75,7 @@ Gujarat Technological University | **CGPA: 8.23**
 
 <div align="center">
 
-![Keyur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
 
@@ -81,5 +86,5 @@ Gujarat Technological University | **CGPA: 8.23**
 ---
 
 <div align="center">
-  <strong>Let's connect and build something great together! 🚀</strong>
+  <strong>Always eager to learn, build, and collaborate! 🚀</strong>
 </div>
