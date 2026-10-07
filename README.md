@@ -1,107 +1,160 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/icons/wave.gif" width="50px" height="50px">
-  <h1>Hi, I'm Keyur Dholakiya 👋</h1>
-  
-  <h3>🚀 Full Stack MERN Developer</h3>
 
-  <p>
-    <strong>Passionate about crafting clean, responsive, and user-friendly web applications.</strong>
-  </p>
+<h1>Hi, I'm Keyur Dholakiya 👋</h1>
 
-  <!-- Badges -->
-  <a href="https://linkedin.com/in/keyur161310">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:keyurdholakiya1604@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <img src="https://img.shields.io/badge/Open_to_Work-00C853?style=for-the-badge" alt="Open to Work"/>
-  
-  <br><br>
-  <img src="https://img.shields.io/badge/MERN_Stack-000000?style=for-the-badge&logo=mern&logoColor=white" alt="MERN"/>
-</div>
+<h3>🚀 Full Stack MERN Developer</h3>
 
----
+<p>
+<strong>Passionate about crafting clean, responsive, and user-friendly web applications.</strong>
+</p>
 
-### 👨‍💻 About Me
+<br>
 
-- **MERN Stack Developer** with hands-on internship experience  
-- Recent **B.E. Information Technology** Graduate (CGPA: **8.23**)  
-- Passionate about building scalable web solutions and clean UIs  
-- **Available for full-time roles across India**
+<a href="https://linkedin.com/in/keyur161310">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
----
+<a href="mailto:keyurdholakiya1604@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-### 🛠️ Tech Stack
+<img src="https://img.shields.io/badge/Open_to_Work-00C853?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to Work"/>
 
-<div align="center">
+<br><br>
 
-<img src="https://raw.githubusercontent.com/keyur161310/keyur161310/main/icons/react.svg" height="45" width="45" alt="React"/>
-<img src="https://raw.githubusercontent.com/keyur161310/keyur161310/main/icons/nodejs.svg" height="45" width="45" alt="Node.js"/>
-<img src="https://raw.githubusercontent.com/keyur161310/keyur161310/main/icons/express.svg" height="45" width="45" alt="Express"/>
-<img src="https://raw.githubusercontent.com/keyur161310/keyur161310/main/icons/mongodb.svg" height="45" width="45" alt="MongoDB"/>
-<img src="https://raw.githubusercontent.com/keyur161310/keyur161310/main/icons/javascript.svg" height="45" width="45" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/keyur161310/keyur161310/main/icons/tailwindcss.svg" height="45" width="45" alt="Tailwind"/>
-<img src="https://raw.githubusercontent.com/keyur161310/keyur161310/main/icons/bootstrap.svg" height="45" width="45" alt="Bootstrap"/>
-<img src="https://raw.githubusercontent.com/keyur161310/keyur161310/main/icons/git.svg" height="45" width="45" alt="Git"/>
+<img src="https://img.shields.io/badge/MERN_Stack-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN Stack"/>
 
 </div>
 
 ---
 
-### 🔥 Featured Projects
+## 👨‍💻 About Me
 
-- **🍽️ Kuldevi Restaurant Website** — Fully responsive restaurant platform
-- **✅ To-Do List Application** — Dynamic task manager with React + Local Storage
-- **📖 Masala Diaries** — Modern food & recipe blog
-- **🧑‍💼 Personal Portfolio** — Clean & responsive portfolio (this one!)
+- 💻 **MERN Stack Developer** with hands-on internship experience
+- 🎓 Recent **B.E. Information Technology Graduate**
+- 📊 **CGPA: 8.23**
+- 🚀 Passionate about building scalable web applications and clean UIs
+- 🌱 Currently improving my React.js, Node.js and backend development skills
+- 💼 **Open to full-time opportunities across India**
 
 ---
 
-### 📈 GitHub Stats & Trophies
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keyur161310&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keyur161310&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=keyur161310&theme=radical&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=keyur161310&theme=radical&no-frame=true&margin-w=15)
-
-![Profile Views](https://komarev.com/ghpvc/?username=keyur161310&color=00ff88&style=for-the-badge&label=Profile+Views)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,git,github,vscode" />
 
 </div>
----
-
-### 🌱 Currently Learning
-
-- Advanced React Patterns & Next.js  
-- Backend optimization with Node.js  
-- UI/UX best practices with Tailwind CSS
 
 ---
 
-### 🎓 Education
+## 🔥 Featured Projects
 
-**Bachelor of Engineering – Information Technology**  
-Gyanmanjri Institute of Technology, Bhavnagar  
-Gujarat Technological University | **CGPA: 8.23**
-
----
-
-### 💼 Experience
-
-**MERN Stack Intern**  
-Easy Learn Academy, Bhavnagar *(Feb – May 2026)*
+| Project | Description |
+|---|---|
+| 🍽️ **Kuldevi Restaurant Website** | Fully responsive restaurant website |
+| ✅ **To-Do List Application** | Dynamic task manager built with React and Local Storage |
+| 📖 **Masala Diaries** | Modern food and recipe website |
+| 🧑‍💼 **Personal Portfolio** | Clean and responsive developer portfolio |
 
 ---
 
+## 📊 GitHub Statistics
 
 <div align="center">
-  <strong>"Turning ideas into reality, one line of code at a time." 💡</strong><br><br>
-  <strong>Always learning • Building • Growing 🚀</strong>
 
+<img src="https://github-readme-stats.vercel.app/api?username=keyur161310&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyur161310&layout=compact&theme=radical&hide_border=true" height="180"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=keyur161310&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=keyur161310&theme=radical&no-frame=true&margin-w=15"/>
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=keyur161310&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS"/>
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- ⚛️ Advanced React Patterns
+- ▲ Next.js
+- 🟢 Node.js & Express.js
+- 🗄️ MongoDB & MySQL
+- 🎨 UI/UX and responsive design
+- 🚀 Backend optimization and API development
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering – Information Technology**
+
+**Gyanmanjri Institute of Technology, Bhavnagar**
+
+Gujarat Technological University
+
+**CGPA: 8.23**
+
+---
+
+## 💼 Experience
+
+### MERN Stack Intern
+**Easy Learn Academy, Bhavnagar**
+
+📅 **February 2026 – May 2026**
+
+- Worked on web application development
+- Built responsive user interfaces
+- Worked with React.js and backend technologies
+- Gained practical experience in full-stack development
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/keyur161310">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:keyurdholakiya1604@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Turning ideas into reality, one line of code at a time."
+
+<br>
+
+**Always Learning • Building • Growing 🚀**
+
+</div>
