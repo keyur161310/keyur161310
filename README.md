@@ -1,21 +1,22 @@
 <div align="center">
 
-<h1>Hi, I'm Keyur Dholakiya 👋</h1>
+# 👋 Hi, I'm Keyur Dholakiya
 
-<h3>🚀 Full Stack MERN Developer</h3>
+### 🚀 MERN Stack Developer | QA Engineer | Business Analyst
 
 <p>
-<strong>Passionate about crafting clean, responsive, and user-friendly web applications.</strong>
+Building responsive web applications, testing websites, analyzing requirements,
+and solving real-world technical problems.
 </p>
 
 <br>
 
-<a href="https://linkedin.com/in/keyur161310">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://linkedin.com/in/keyur-dholakiya-4a5406350">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:keyurdholakiya1604@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <img src="https://img.shields.io/badge/Open_to_Work-00C853?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to Work"/>
@@ -23,6 +24,8 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/MERN_Stack-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN Stack"/>
+<img src="https://img.shields.io/badge/QA_%2F_Testing-6C63FF?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="QA Testing"/>
+<img src="https://img.shields.io/badge/Business_Analysis-FF9800?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Business Analysis"/>
 
 </div>
 
@@ -30,131 +33,333 @@
 
 ## 👨‍💻 About Me
 
-- 💻 **MERN Stack Developer** with hands-on internship experience
-- 🎓 Recent **B.E. Information Technology Graduate**
-- 📊 **CGPA: 8.23**
-- 🚀 Passionate about building scalable web applications and clean UIs
-- 🌱 Currently improving my React.js, Node.js and backend development skills
-- 💼 **Open to full-time opportunities across India**
+I am a **Full Stack MERN Developer** with practical experience in
+web development, website testing, quality assurance, and business analysis.
+
+🎓 **B.E. Information Technology Graduate**  
+📊 **CGPA: 8.23**  
+💻 Full Stack MERN Development  
+🧪 QA & Website Testing  
+📋 Business Analysis & Requirement Analysis  
+📊 Data Validation & Process Improvement  
+📍 Bhavnagar, Gujarat, India
+
+I enjoy building responsive web applications, developing APIs,
+testing websites, identifying functional issues, analyzing requirements,
+and continuously improving my technical skills.
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Professional Experience
+
+### 🧪 QA / Business Analyst
+
+**Rikhav Swayam Solutions — Bhavnagar**  
+📅 **June 2026 – Present**
+
+- 🔍 Working on website quality assurance, testing, and business analysis activities
+- 📋 Analyzing requirements and documenting processes
+- 🐞 Identifying and reporting functional issues
+- 📊 Managing and validating product data using Excel and Google Sheets
+- 🔧 Supporting website updates and data accuracy
+- ⚙️ Contributing to process improvement activities
+- 🤝 Collaborating with team members to improve workflow efficiency
+
+---
+
+### 💻 MERN Stack Intern
+
+**Easy Learn Academy — Bhavnagar**  
+📅 **February 2026 – May 2026**
+
+- 🚀 Developed responsive web applications using MERN stack technologies
+- 🎨 Worked on frontend and backend development tasks
+- ⚛️ Built reusable React components
+- 🔗 Integrated APIs into web applications
+- 🗄️ Worked with databases and REST APIs
+- 🐞 Improved debugging and problem-solving skills
+- 🤝 Collaborated with team members to complete project objectives
+- ⏱️ Worked on real-time projects and project deadlines
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming & Web
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
 </div>
 
----
-
-## 🔥 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🍽️ **Kuldevi Restaurant Website** | Fully responsive restaurant website |
-| ✅ **To-Do List Application** | Dynamic task manager built with React and Local Storage |
-| 📖 **Masala Diaries** | Modern food and recipe website |
-| 🧑‍💼 **Personal Portfolio** | Clean and responsive developer portfolio |
+- HTML5
+- CSS3
+- JavaScript
 
 ---
 
-## 📊 GitHub Statistics
+### ⚛️ Frontend Development
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=keyur161310&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="180"/>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyur161310&layout=compact&theme=radical&hide_border=true" height="180"/>
+</div>
+
+- React.js
+- Bootstrap
+- Tailwind CSS
+- Responsive Web Design
+- Reusable UI Components
+
+---
+
+### 🟢 Backend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+</div>
+
+- Node.js
+- Express.js
+- REST API Development
+- API Integration
+- Frontend & Backend Development
+
+---
+
+### 🗄️ Database
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+</div>
+
+- MongoDB
+- MySQL
+- Database Operations
+- Data Management
+
+---
+
+### 🧪 QA & Testing
+
+- Manual Testing
+- Website Testing
+- Functional Testing
+- Bug Reporting
+- Issue Identification
+- Website Quality Assurance
+- Debugging
+
+---
+
+### 📋 Business Analysis
+
+- Requirement Analysis
+- Requirement Documentation
+- Process Documentation
+- Data Validation
+- Product Data Management
+- Process Improvement
+- Workflow Analysis
+
+---
+
+### 📊 Data & Productivity
+
+- Microsoft Excel
+- Google Sheets
+- Data Validation
+- Product Data Management
+
+---
+
+### 🔧 Tools & Platforms
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vite" />
+
+</div>
+
+- Git
+- GitHub
+- VS Code
+- npm
+- Vite
+
+---
+
+# 🚀 Featured Projects
+
+## 🍽️ Kuldevi Restaurant Website
+
+A responsive restaurant website with a modern and attractive UI.
+
+### Key Features
+
+- 📱 Responsive design
+- 🍔 Food menu sections
+- 📂 Category pages
+- 📞 Contact forms
+- 🎨 Attractive UI design
+- 🅱️ Bootstrap implementation
+- 📱 Interactive frontend features
+
+---
+
+## ✅ To-Do List Application
+
+A task management application built with JavaScript and React.js.
+
+### Key Features
+
+- ➕ Add tasks
+- ✏️ Edit tasks
+- 🗑️ Delete tasks
+- ✅ Complete tasks
+- 💾 Local Storage
+- 🔄 Dynamic DOM updates
+- 📋 Task management
+
+---
+
+## 📖 Masala Diaries
+
+A modern food and recipe-based web project.
+
+### Key Features
+
+- 🍛 Food & recipe content
+- 📱 Responsive design
+- 🎨 User-friendly interface
+- 📄 Multiple pages
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+
+---
+
+## 💼 Personal Portfolio
+
+My personal portfolio website showcasing my:
+
+- 👨‍💻 Technical skills
+- 🚀 Projects
+- 💼 Experience
+- 📋 Professional information
+- 🔗 Social media links
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=keyur161310&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"
+  height="180"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyur161310&layout=compact&theme=radical&hide_border=true"
+  height="180"
+/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=keyur161310&theme=radical&hide_border=true"/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=keyur161310&theme=radical&hide_border=true"
+/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=keyur161310&theme=radical&no-frame=true&margin-w=15"/>
+<img
+  src="https://github-profile-trophy.vercel.app/?username=keyur161310&theme=radical&no-frame=true&margin-w=15"
+/>
 
 </div>
 
 ---
 
-## 👀 Profile Views
+# 🌱 Currently Learning
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=keyur161310&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS"/>
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-- ⚛️ Advanced React Patterns
-- ▲ Next.js
+- ⚛️ Advanced React.js
+- 🚀 Full Stack MERN Development
 - 🟢 Node.js & Express.js
+- 🔗 REST API Development
 - 🗄️ MongoDB & MySQL
-- 🎨 UI/UX and responsive design
-- 🚀 Backend optimization and API development
+- 🧪 Advanced Website Testing
+- 🔍 Quality Assurance
+- 📋 Business Analysis
+- 🎨 UI/UX & Responsive Design
+- ⚡ Backend Optimization
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
-**Bachelor of Engineering – Information Technology**
+### Bachelor of Engineering – Information Technology
 
-**Gyanmanjri Institute of Technology, Bhavnagar**
+**Gyanmanjri Institute of Technology, Bhavnagar**  
+**Gujarat Technological University (GTU)**
 
-Gujarat Technological University
-
-**CGPA: 8.23**
-
----
-
-## 💼 Experience
-
-### MERN Stack Intern
-**Easy Learn Academy, Bhavnagar**
-
-📅 **February 2026 – May 2026**
-
-- Worked on web application development
-- Built responsive user interfaces
-- Worked with React.js and backend technologies
-- Gained practical experience in full-stack development
+| Academic Information | Details |
+|---|---|
+| 🎓 Degree | B.E. Information Technology |
+| 📊 CGPA | **8.23** |
+| 📈 CPI | **7.52** |
+| 🏆 Final Semester SPI | **10.00** |
+| ✅ Academic Status | Completed |
+| 📅 Passing Year | **2026** |
 
 ---
 
-## 🤝 Connect With Me
+# 📜 Certifications & Activities
 
-<div align="center">
-
-<a href="https://linkedin.com/in/keyur161310">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:keyurdholakiya1604@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+- 🎓 Completed MERN Stack Course from Easy Learn Academy
+- 💻 Participated in Techmanjari Technical Event
+- 🚀 Actively involved in web development learning and project building
 
 ---
 
-<div align="center">
+# 🌐 Languages
 
-### 💡 "Turning ideas into reality, one line of code at a time."
+- 🇬🇧 English
+- 🇮🇳 Hindi
+- 🇮🇳 Gujarati
 
-<br>
+---
 
-**Always Learning • Building • Growing 🚀**
+# 🎯 What I Do
 
-</div>
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│   💻 Build Web Applications                 │
+│                                             │
+│   ⚛️ Develop React Interfaces               │
+│                                             │
+│   🟢 Build Node.js & Express APIs           │
+│                                             │
+│   🗄️ Work With MongoDB & MySQL              │
+│                                             │
+│   🧪 Test Websites & Find Bugs              │
+│                                             │
+│   📋 Analyze Requirements                   │
+│                                             │
+│   📊 Validate Data & Processes              │
+│                                             │
+└─────────────────────────────────────────────┘
