@@ -280,17 +280,8 @@ My personal portfolio website showcasing my:
 
 </div>
 
----
 
-# 🏆 GitHub Trophies
 
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=keyur161310&theme=radical&no-frame=true&margin-w=15"
-/>
-
-</div>
 
 ---
 
